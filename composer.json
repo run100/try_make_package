@@ -1,0 +1,19 @@
+{
+    "name": "run100/try_make_package",
+    "description": "try",
+    "type": "library",
+    "authors": [
+        {
+            "name": "张忠旺",
+            "email": "727271755@qq.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Flower\\": "src/"
+        }        
+    }
+}
